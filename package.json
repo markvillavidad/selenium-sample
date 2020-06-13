@@ -1,0 +1,24 @@
+{
+  "name": "selenium-sample",
+  "version": "1.0.0",
+  "description": "Selenium Example Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markvillavidad/selenium-sample.git"
+  },
+  "keywords": [
+    "selenium",
+    "automation",
+    "testing"
+  ],
+  "author": "Mark Vidad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markvillavidad/selenium-sample/issues"
+  },
+  "homepage": "https://github.com/markvillavidad/selenium-sample#readme"
+}
